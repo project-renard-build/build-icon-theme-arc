@@ -1,0 +1,3 @@
+[submodule "arc-icon-theme"]
+	path = arc-icon-theme
+	url = https://github.com/horst3180/arc-icon-theme.git
